@@ -1,0 +1,13 @@
+[project]
+name = "aero-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.11.0.86",
+    "pdf2image>=1.17.0",
+    "pdfplumber>=0.11.5",
+    "pymupdf>=1.25.3",
+    "pyzbar>=0.1.9",
+]

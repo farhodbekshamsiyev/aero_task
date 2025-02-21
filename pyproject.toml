@@ -9,5 +9,6 @@ dependencies = [
     "pdf2image>=1.17.0",
     "pdfplumber>=0.11.5",
     "pymupdf>=1.25.3",
+    "pytest>=8.3.4",
     "pyzbar>=0.1.9",
 ]
